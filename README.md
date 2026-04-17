@@ -9,7 +9,7 @@ LinkedIn: https://linkedin.com/in/sinchana-shivanand-07ab0a280
 
 ## Professional Summary
 
-Software developer with a focus on backend engineering and applied machine learning. Strong foundation in Java, Python, and database systems with hands-on experience in building scalable web applications and intelligent predictive models. Adept at translating real-world problems into efficient, production-ready solutions.
+Software developer focused on backend engineering and applied machine learning. Strong foundation in Java, Python, and database systems with hands-on experience in building scalable web applications and intelligent predictive models. Capable of translating real-world problems into efficient, production-ready solutions.
 
 ---
 
@@ -58,8 +58,8 @@ Jun 2024 – Aug 2024
 
 * Designed and implemented a heart disease prediction system using Python and Scikit-learn
 * Built an end-to-end pipeline from data preprocessing to model inference
-* Integrated backend APIs into a web-based application
-* Led a team of four, following Agile practices and Git workflows
+* Integrated REST APIs into a web-based application
+* Led a team of four using Agile methodologies and Git workflows
 * Improved prediction performance through optimized data handling
 
 ---
@@ -70,9 +70,9 @@ Jun 2024 – Aug 2024
 
 **Tech Stack:** Java, Spring Boot, MySQL
 
-* Engineered a backend-centric system to manage employee records
-* Implemented CRUD operations with structured database interaction
-* Designed modular and maintainable service architecture
+* Developed a backend-driven application for managing employee records
+* Implemented CRUD operations with efficient database integration
+* Designed modular and maintainable architecture
 
 Repository:
 https://github.com/sinchana1408/Employee-Management-System
@@ -83,9 +83,9 @@ https://github.com/sinchana1408/Employee-Management-System
 
 **Tech Stack:** Python, TensorFlow, OpenCV
 
-* Developed a convolutional neural network for medical image classification
-* Classified images into multiple disease categories with high accuracy
-* Enabled real-time prediction through user-uploaded images
+* Built a convolutional neural network for medical image classification
+* Classified images into multiple disease categories
+* Enabled real-time prediction using uploaded medical images
 
 Repository:
 https://github.com/sinchana1408/Colon-Disease-Detection
@@ -96,9 +96,9 @@ https://github.com/sinchana1408/Colon-Disease-Detection
 
 **Tech Stack:** Python, Flask, Transformer (T5)
 
-* Built a transformer-based NLP system for grammar correction
-* Designed a Flask application for real-time sentence processing
-* Focused on improving linguistic accuracy and response time
+* Developed a transformer-based NLP system for grammar correction
+* Built a Flask application for real-time sentence processing
+* Improved linguistic accuracy and response efficiency
 
 Repository:
 https://github.com/sinchana1408/NLP_Grammar_Checker
@@ -139,4 +139,4 @@ CGPA: 8.36
 
 ## Contact
 
-For collaborations, internships, or project discussions, feel free to reach out via email or LinkedIn.
+For collaborations, internships, or project discussions, feel free to connect via email or LinkedIn.
