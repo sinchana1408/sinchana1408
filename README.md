@@ -1,9 +1,17 @@
 # Sinchana S
 
 Mysuru, Karnataka
-Email: [sinchanashivanand1408@gmail.com](mailto:sinchanashivanand1408@gmail.com)
-GitHub: https://github.com/sinchana1408
-LinkedIn: https://linkedin.com/in/sinchana-shivanand-07ab0a280
+
+Email
+sinchanashivanand1408@gmail.com
+
+GitHub
+https://github.com/sinchana1408
+
+LinkedIn
+https://linkedin.com/in/sinchana-shivanand-07ab0a280
+
+Backend Developer | Artificial Intelligence & Machine Learning
 
 ---
 
