@@ -142,4 +142,4 @@ CGPA: 8.36
 
 ## Contact
 
-For collaborations, internships, or project discussions, feel free to connect via email or LinkedIn.
+project discussions, feel free to connect via email or LinkedIn.
