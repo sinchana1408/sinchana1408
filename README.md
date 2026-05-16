@@ -128,11 +128,6 @@ CGPA: 8.36
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinchana1408\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchana1408\&layout=compact\&hide_border=true)
 
 ---
 
