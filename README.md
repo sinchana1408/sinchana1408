@@ -144,8 +144,11 @@ Certifications & Achievements
 TomatoCare – AIKIIE 2026 — Conference Paper & Presentation
 IBM SkillsBuild & CSRBOX — Data Analyst Internship
 AIoT Occupancy Detection & Estimation System — AIoT Internship Project
+
 Contact
 
 Email: sinchanashivanand1408@gmail.com
+
 GitHub: https://github.com/sinchana1408
+
 LinkedIn: https://linkedin.com/in/sinchana-shivanand-07ab0a280
