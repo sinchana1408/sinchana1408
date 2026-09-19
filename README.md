@@ -1,145 +1,148 @@
-# Sinchana S
+Sinchana S
 
 Mysuru, Karnataka
-
-Email
-sinchanashivanand1408@gmail.com
-
-GitHub
-https://github.com/sinchana1408
-
-LinkedIn
-https://linkedin.com/in/sinchana-shivanand-07ab0a280
+Email: sinchanashivanand1408@gmail.com
+GitHub: https://github.com/sinchana1408
+LinkedIn: https://linkedin.com/in/sinchana-shivanand-07ab0a280
 
 Backend Developer | Artificial Intelligence & Machine Learning
+Professional Summary
 
----
+Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning with hands-on experience in backend development, machine learning, AIoT, and intelligent applications. Skilled in Java, Python, SQL, Spring Boot, Flask, FastAPI, and Scikit-learn. Experienced in developing REST APIs, ML prediction systems, embedded AI solutions, and database-driven applications. Strong interest in building practical, scalable, and data-driven software solutions.
 
-## Professional Summary
+Core Competencies
+Backend Application Development
+REST API Development
+Machine Learning & Predictive Modeling
+AIoT & Embedded AI
+Data Preprocessing & Analysis
+Database Management
+Full-Stack Application Development
+Agile Development & Git
+Technical Skills
 
-Software developer focused on backend engineering and applied machine learning. Strong foundation in Java, Python, and database systems with hands-on experience in building scalable web applications and intelligent predictive models. Capable of translating real-world problems into efficient, production-ready solutions.
+Languages:
+Java, Python, SQL, C, Embedded C
 
----
+Backend & Frameworks:
+Spring Boot, Hibernate, Flask, FastAPI, REST APIs
 
-## Core Competencies
+Machine Learning & AI:
+Scikit-learn, TensorFlow, Keras, OpenCV, CNN, Machine Learning
 
-* Backend Application Development
-* RESTful API Design
-* Machine Learning Model Development
-* Data Processing and Analysis
-* System Design Fundamentals
-* Agile Development and Version Control
+Data Science:
+Pandas, NumPy, Matplotlib, Data Preprocessing, Predictive Analytics
 
----
+Frontend:
+HTML, CSS, JavaScript, React
 
-## Technical Stack
-
-**Languages**
-Java, Python, SQL
-
-**Frameworks and Backend**
-Spring Boot, Hibernate, REST APIs
-
-**Machine Learning and Data Science**
-TensorFlow, Keras, Scikit-learn, OpenCV
-Pandas, NumPy, Matplotlib
-
-**DevOps and Tools**
-Docker, AWS, Jenkins, Git, GitHub
-
-**Databases**
+Databases:
 MySQL
 
-**Testing**
+DevOps & Tools:
+Git, GitHub, Docker, AWS
+
+Testing:
 JUnit, Mockito
 
-**Visualization**
+Visualization:
 Power BI, Tableau
 
----
+IoT & Embedded:
+STM32, VL53L0X ToF Sensor, UART, WiFi, IoT
 
-## Professional Experience
+Professional Experience
+Data Analyst Intern
 
-**Data Analyst Intern**
-IBM SkillsBuild & CSRBOX
-Jun 2024 – Aug 2024
+IBM SkillsBuild & CSRBOX | Jun 2024 – Aug 2024
 
-* Designed and implemented a heart disease prediction system using Python and Scikit-learn
-* Built an end-to-end pipeline from data preprocessing to model inference
-* Integrated REST APIs into a web-based application
-* Led a team of four using Agile methodologies and Git workflows
-* Improved prediction performance through optimized data handling
+Developed and integrated a heart disease prediction module using Python and Scikit-learn.
+Designed an end-to-end pipeline covering data preprocessing, ETL, and model inference.
+Integrated machine learning prediction functionality into a web application using REST APIs.
+Collaborated with a 4-member team using Agile practices and Git-based workflows.
+Implemented real-time risk classification using a machine learning prediction model.
 
----
+Technologies: Python, Scikit-learn, Machine Learning, Flask, REST APIs, Git
 
-## Selected Projects
+AIoT Project Experience
+AIoT Occupancy Detection & Estimation System
+Developed a real-time intelligent monitoring system using STM32 and VL53L0X Time-of-Flight sensor.
+Implemented real-time distance acquisition and sensor integration for occupancy detection.
+Integrated UART and WiFi-based communication for data transmission.
+Applied machine learning models for occupancy detection and people estimation.
+Developed a FastAPI backend for real-time machine learning inference.
+Built an interactive React dashboard for monitoring and analytics.
 
-### Employee Management System
+Technologies: STM32, Embedded C, Python, Scikit-learn, FastAPI, React, UART, IoT
 
-**Tech Stack:** Java, Spring Boot, MySQL
+GitHub:
+https://github.com/sinchana1408/AIOT_BASED_OCCUPANCY_DETECTION_USING_TOFSENSOR
 
-* Developed a backend-driven application for managing employee records
-* Implemented CRUD operations with efficient database integration
-* Designed modular and maintainable architecture
+Selected Projects
+TomatoCare – Tomato Maturity Prediction & Harvest Recommendation System
 
-Repository:
+Tech Stack: Python, CNN, Deep Learning
+
+Developed an AI-based system for tomato maturity classification and harvest recommendation.
+Used CNN-based image analysis to identify maturity stages based on color, texture, and shape.
+Combined maturity prediction with weather and crop-growth information to support harvest recommendations.
+Designed the system to help improve crop quality, yield, and reduce post-harvest losses.
+Selected for presentation at a conference and developed the project as a research paper.
+
+GitHub:
+https://github.com/sinchana1408/Tomato_maturity_detection_and_Harvest_RecommendationSystem
+
+Employee Management System
+
+Tech Stack: Java, Spring Boot, MySQL
+
+Developed a backend-driven application for managing employee records.
+Implemented CRUD operations with MySQL database integration.
+Designed modular backend components using Spring Boot.
+Focused on maintainable application structure and efficient database operations.
+
+GitHub:
 https://github.com/sinchana1408/Employee-Management-System
 
----
+NLP Grammar & Spelling Checker
 
-### Colon Disease Detection Using CNN
+Tech Stack: Python, NLP
 
-**Tech Stack:** Python, TensorFlow, OpenCV
+Developed an NLP-based application for detecting spelling and grammar errors.
+Implemented text-processing functionality for improving sentence quality.
+Built the application to process user-provided text and provide corrected output.
 
-* Built a convolutional neural network for medical image classification
-* Classified images into multiple disease categories
-* Enabled real-time prediction using uploaded medical images
-
-Repository:
-https://github.com/sinchana1408/Colon-Disease-Detection
-
----
-
-### NLP Grammar and Spelling Correction System
-
-**Tech Stack:** Python, Flask, Transformer (T5)
-
-* Developed a transformer-based NLP system for grammar correction
-* Built a Flask application for real-time sentence processing
-* Improved linguistic accuracy and response efficiency
-
-Repository:
+GitHub:
 https://github.com/sinchana1408/NLP_Grammar_Checker
 
----
+Education
+Vidyavardhaka College of Engineering, Mysore
 
-## Education
-
-**Vidyavardhaka College of Engineering, Mysore**
-Bachelor of Engineering in Computer Science (AI & ML)
+Bachelor of Engineering – Computer Science (Artificial Intelligence & Machine Learning)
 2022 – 2026
+
 CGPA: 8.36
 
----
+Research & Publication
+TomatoCare: Tomato Maturity Detection & Harvest Recommendation System
 
-## Resume
+Conference: AIKIIE 2026
 
-[Download Resume](./sinchu_resume.pdf)
+Research work based on CNN-driven tomato maturity classification and harvest recommendation.
+Presented the project as an AI-based agricultural application.
+Areas of Interest
+Backend Engineering
+Artificial Intelligence & Machine Learning
+AIoT & Embedded AI
+REST API Development
+Data-Driven Applications
+Scalable Software Systems
+Certifications & Achievements
+TomatoCare – AIKIIE 2026 — Conference Paper & Presentation
+IBM SkillsBuild & CSRBOX — Data Analyst Internship
+AIoT Occupancy Detection & Estimation System — AIoT Internship Project
+Contact
 
----
-
-
----
-
-## Areas of Interest
-
-* Backend Engineering
-* Artificial Intelligence
-* Scalable Systems
-* Data-Driven Applications
-
----
-
-## Contact
-
-project discussions, feel free to connect via email or LinkedIn.
+Email: sinchanashivanand1408@gmail.com
+GitHub: https://github.com/sinchana1408
+LinkedIn: https://linkedin.com/in/sinchana-shivanand-07ab0a280
